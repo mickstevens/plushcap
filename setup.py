@@ -20,7 +20,7 @@ test_requirements = [
 ]
 
 setup(
-    name='plushcap',
+    name='pisco-sour',
     version='0.1.0',
     description='Plushcap monitors websites and alerts people via text or phone call if there is a problem.',
     long_description=readme + '\n\n' + history,
